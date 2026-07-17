@@ -337,9 +337,9 @@ plt.show()
 
 ### Output
 
-Scatter plot showing Actual Sales vs Predicted Sales.
 
----
+
+<img width="1386" height="1084" alt="Screenshot 2026-07-17 181448" src="https://github.com/user-attachments/assets/3973b913-88d2-43d6-a716-67876dbc31f8" />
 
 # Results
 
